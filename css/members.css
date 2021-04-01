@@ -1,0 +1,8 @@
+.members-main {
+    grid-area: main;
+    height: 120vh;
+}
+
+.members-main .profile-box {
+    height: 80px;
+}
